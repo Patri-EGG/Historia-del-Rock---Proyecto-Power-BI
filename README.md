@@ -39,6 +39,7 @@ Para visualizar y trabajar con este archivo, necesitarás tener instalado:
   - [LinkedIn](https://www.linkedin.com/in/mabelmr/)
   - mabel.delatorremr@gmail.com
 
+Dataset Original: https://www.kaggle.com/datasets/lukaszamora/history-of-rock-19502020
 
 ## Aclaración de Copyright
 
