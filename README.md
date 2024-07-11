@@ -33,11 +33,11 @@ Para visualizar y trabajar con este archivo, necesitarás tener instalado:
 ## Autor
 
 - **Patricia González Gruber**
-  - [LinkedIn](www.linkedin.com/in/patricia-gonzalez-gruber)
-  - [Correo Electrónico](mailto:triciax1@gmail.com)
+  - [LinkedIn](https://www.linkedin.com/in/patricia-gonzalez-gruber)
+  - triciax1@gmail.com
 - **Mábel Martínez Rodríguez**
   - [LinkedIn](https://www.linkedin.com/in/mabelmr/)
-  - [Correo Electrónico](mailto:mabel.delatorremr@gmail.com)
+  - mabel.delatorremr@gmail.com
 
 
 ## Aclaración de Copyright
