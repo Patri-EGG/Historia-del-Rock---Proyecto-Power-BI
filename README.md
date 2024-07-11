@@ -8,7 +8,7 @@ El archivo `Promo H-Pareja 6 Historia del Rock.pbix` contiene:
 1. **Gráfico de Pie de Canciones Populares:**
    - **Canciones de Rock Más Populares:** Un gráfico de pie interactivo que muestra las canciones más populares de rock desde 1956 hasta 2020.
    - **Enlaces de Audio:** Cada porción del gráfico incluye un enlace de audio de Dropbox para reproducir la canción más popular del año directamente en Power BI.
-   - **Información del Artista:** Al hacer clic en cada porción, se muestra el nombre del artista, su foto y un reproductor de contenido HTML que permite escuchar la canción.
+   - **Información del Artista:** Al hacer clic en cada porción, se muestra el nombre del artista, su foto (al pasar el cursor sobre su nombre)y un reproductor de contenido HTML que permite escuchar la canción.
    - **Métricas Musicales:** Visualización de métricas como danceability, acousticness, instrumentalness y speechiness a lo largo de los años.
 
 2. **Dashboard de Canciones y Métricas:**
